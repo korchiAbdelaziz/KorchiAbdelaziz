@@ -1,58 +1,55 @@
-# 👋 Salut, moi c'est Abdelaziz KORCHI !
+# 👋 Hi, I'm Abdelaziz KORCHI!
 
-### 🎓 Futur Ingénieur en Informatique & Réseaux | Étudiant en Master (France)
+### 🎓 Future Computer & Network Engineer | Master's Student (France)
 
-[cite_start]Je suis actuellement étudiant en cycle d'Ingénieur à l'**EMSI** et en Master à l'**Université Côte d'Azur**[cite: 7, 67, 70]. [cite_start]Passionné par l'innovation technologique, je me spécialise dans le développement full-stack, la data science et l'intelligence artificielle[cite: 8].
+I am currently an Engineering student at **EMSI** and pursuing a Master's degree at **Université Côte d'Azur**. Passionate about technological innovation, I specialize in full-stack development, data science, and artificial intelligence.
 
-- [cite_start]🔍 **Actuellement :** À la recherche d'un stage de fin d'études (PFE)[cite: 8].
-- [cite_start]💡 **Intérêts :** IA, Deep Learning, Big Data et Solutions Web/Mobiles performantes[cite: 8, 32, 33].
-- [cite_start]🌍 **Localisation :** Casablanca, Maroc[cite: 5].
-
----
-
-## 🛠 Compétences Techniques
-
-### 💻 Programmation & Web
-* [cite_start]**Langages :** Python, Java, JavaScript, TypeScript, C#, C++, PHP[cite: 24].
-* [cite_start]**Frontend :** React.js, Vite, HTML5/CSS3, TailwindCSS, Bootstrap[cite: 24, 25].
-* [cite_start]**Backend :** Node.js, Spring Boot, Django, Flask, Laravel, Symfony, JEE, ASP.Net[cite: 25, 26].
-* [cite_start]**Mobile :** Flutter, React Native, Android[cite: 25].
-
-### 📊 Data Science & IA
-* [cite_start]**Analyse de données :** Pandas, NumPy, Big Data, Data Mining[cite: 32, 49].
-* [cite_start]**Machine & Deep Learning :** TensorFlow/Keras, LLM locaux, NLP[cite: 17, 33, 50, 52].
-* [cite_start]**Outils :** OpenCV, EasyOCR, Apache Superset.
-
-### ☁️ DevOps & Outils
-* [cite_start]**Cloud :** AWS, Azure[cite: 28, 29].
-* [cite_start]**Outils :** Git, GitHub Actions, Docker, CI/CD[cite: 28].
-* [cite_start]**Bases de données :** MongoDB, PostgreSQL, MySQL, Oracle[cite: 27].
+- 🔍 **Looking for:** Final year internship (PFE).
+- 💡 **Interests:** AI, Deep Learning, Big Data, and High-performance Web/Mobile solutions.
+- 🌍 **Location:** Casablanca, Morocco.
 
 ---
 
-## 🚀 Projets Phares
+## 🛠 Technical Skills
 
-* [cite_start]**📈 Prédiction Boursière IA :** Analyse de données historiques avec des réseaux de neurones **LSTM** pour anticiper les tendances du marché[cite: 11, 13].
-* [cite_start]**🫁 Scanner AI :** Détection de pathologies pulmonaires (pneumonie, cancer) via un modèle **CNN/Keras** avec interface **Streamlit**[cite: 15, 17, 18].
-* [cite_start]**🛒 Caisse Intelligente :** Application Android intégrée à l'ERP **Odoo** pour la gestion des ventes et stocks en temps réel[cite: 19, 20, 21].
+### 💻 Programming & Web Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
----
+* **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) Vite, TailwindCSS, Bootstrap, HTML5/CSS3.
+* **Backend:** ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) Flask, Laravel, Symfony, .NET.
+* **Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) React Native, Android.
 
-## 💼 Expériences Récentes
+### 📊 Data Science & AI
+* **Analysis:** Pandas, NumPy, Big Data, Data Mining.
+* **AI/ML:** TensorFlow, Keras, Local LLMs, NLP, OpenCV.
 
-* [cite_start]**Royal Air Maroc :** Mise en place d'un système **OCR** pour l'extraction automatique de données de billets d'avion (Python, OpenCV)[cite: 44, 47, 49].
-* [cite_start]**Zen Networks :** Développement d'un **agent intelligent (LLM)** pour le diagnostic d'anomalies et visualisation NLP[cite: 49, 50, 52].
-* [cite_start]**Wings Technologie :** Création d'une plateforme web de cartes digitales personnalisées (React.js, Firebase)[cite: 53, 55, 57].
-
----
-
-## 📫 Me contacter
-
-* [cite_start]**Email :** abdelazizkorchii@gmail.com [cite: 3]
-* [cite_start]**Langues :** Arabe (Maternel), Français (Avancé), Anglais (Intermédiaire) [cite: 39, 40]
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### ⚡ Mes Statistiques GitHub
-![Stats de Abdelaziz](https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&theme=radical)
+## 🚀 Key Projects
+
+* **📈 AI Stock Market Predictor:** Historical data analysis using **LSTM** neural networks to forecast market trends.
+* **🫁 AI Scanner:** Detection of lung pathologies (Pneumonia, Cancer) via a **CNN/Keras** model with a **Streamlit** interface.
+* **🛒 Smart POS System:** Android application integrated with **Odoo ERP** for real-time sales and stock management.
+
+---
+
+## 💼 Recent Experience
+
+* **Royal Air Maroc:** Implemented an **OCR** system for automated data extraction from flight tickets using Python & OpenCV.
+* **Zen Networks:** Developed an **Intelligent Agent (LLM)** for automated anomaly diagnosis and NLP dynamic visualization.
+* **Wings Technologie:** Built a web platform for customized digital cards using React.js and Firebase.
+
+---
+
+## 📫 Connect with me
+
+* **Email:** abdelazizkorchii@gmail.com
+* **Languages:** Arabic (Native), French (Fluent), English (Intermediate)
+
+---
+
+### ⚡ GitHub Stats
+![Abdelaziz's Stats](https://github-readme-stats.vercel.app/api?username=KorchiAbdelaziz&show_icons=true&theme=radical)
